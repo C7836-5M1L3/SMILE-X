@@ -1,0 +1,16 @@
+from time import sleep
+import sys
+
+string = """ ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴄʏʙᴇʀᴄʀᴀᴄᴋᴇʀᴏғғɪᴄɪᴀʟ © PEFEXX
+
+ɢɪᴛʜᴜʙ : ᴄʏʙᴇʀ-ᴄʀᴀᴄᴋᴇʀ-ᴏғғɪᴄɪᴀʟ ©JESU-PEFEXX
+
+ɪɴsᴛᴀɢʀᴀᴍ : ᴄʏʙᴇʀᴄʀᴀᴄᴋᴇʀᴏғғɪᴄɪᴀʟ ©JESU-PEFEXX
+
+ᴡᴇʙsɪᴛᴇ : ᴡᴡᴡ.ᴄᴄᴏғғɪᴄɪᴀʟ.ɢᴀ
+
+ᴇᴍᴀɪʟ : sarathsnap25@ɢᴍᴀɪʟ.ᴄᴏᴍ  """
+for letter in string:
+  sleep(0.01) 
+  sys.stdout.write(letter)
+  sys.stdout.flush()
