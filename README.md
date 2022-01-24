@@ -14,7 +14,7 @@
 <p align="center">
 
 <a href="#"><img title="SMILE-X / SIM CRACK"
- src="https://img.shields.io/badge/-HACK FREE%20FIRE-black?&style=for-the-badge"></a>
+ src="https://img.shields.io/badge/-SMILE-X%20FIRE-black?&style=for-the-badge"></a>
 
 ---
 
