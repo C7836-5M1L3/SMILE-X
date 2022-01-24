@@ -13,7 +13,7 @@
 <a href="https://wa.me/+919495748677"><img title="CYBER SMILE" src="https://img.shields.io/badge/Cyber_smile-CONTACT ME ON-SMILE/CYBER%20SMILE?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
 
-<a href="#"><img title="SMILE-X / SIM CRACK"
+<a href="#"><img title="SMILE-X"
  src="https://img.shields.io/badge/-SMILE-X%20FIRE-black?&style=for-the-badge"></a>
 
 ---
