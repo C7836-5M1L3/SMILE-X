@@ -1,11 +1,11 @@
 from time import sleep
 import sys
 
-string = """ ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴄʏʙᴇʀᴄʀᴀᴄᴋᴇʀᴏғғɪᴄɪᴀʟ © EMIL BENZ MATHEW
+string = """ ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴄʏʙᴇʀᴄʀᴀᴄᴋᴇʀᴏғғɪᴄɪᴀʟ © EMIL & SARATH
 
 ɢɪᴛʜᴜʙ : ᴄʏʙᴇʀ-ᴄʀᴀᴄᴋᴇʀ-ᴏғғɪᴄɪᴀʟ ©CYBER SMILE
 
-ɪɴsᴛᴀɢʀᴀᴍ : ᴄʏʙᴇʀᴄʀᴀᴄᴋᴇʀᴏғғɪᴄɪᴀʟ ©CYBER SMILE 
+ɪɴsᴛᴀɢʀᴀᴍ : ᴄʏʙᴇʀᴄʀᴀᴄᴋᴇʀᴏғғɪᴄɪᴀʟ ©PEFFEX 
 
 ᴡᴇʙsɪᴛᴇ : ᴡᴡᴡ.ᴄᴄᴏғғɪᴄɪᴀʟ.ɢᴀ
 
